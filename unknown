@@ -1,0 +1,9 @@
+.',
+      'Aim for 7-8 hours of quality sleep.',
+      'Review notes from the previous day before starting new topics.',
+      'Practice past papers regularly.',
+    ],
+  };
+};
+
+const TaskIcon = ({ taskType }: { task
